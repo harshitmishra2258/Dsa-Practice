@@ -1,4 +1,4 @@
-public class MaxProductSubarray {
+ public class MaxProductSubarray {
     public static void main(String[] args) {
         int[] arr = {2, -3, 4, -2, -1, 0, 5, -3};
 
